@@ -1,0 +1,10 @@
+.light-mode{
+  background:#f5f5f5;
+  color:black;
+}
+
+.light-mode .task,
+.light-mode .stats{
+  background:white;
+  color:black;
+}
